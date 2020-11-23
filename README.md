@@ -7,7 +7,7 @@
 # List_Types_Flutter
 ## This repo is a part of flutter beginner series from London App Brewery
 
-### This Flutter app , shows to list types : Horizontal and Vertical 
+### This Flutter app , shows  two list types : Horizontal and Vertical 
  ---
 
 #  :camera: Demo:
